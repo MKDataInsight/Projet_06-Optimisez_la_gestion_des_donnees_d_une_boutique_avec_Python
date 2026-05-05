@@ -12,8 +12,9 @@
 
 ![bottleneck](/assets/bottleneck.png)
 
-Data Analyste chez BottleNeck, un marchand de vin prestigieux, je dois agréger les données de stock et les assainir afin de pouvoir les exploiter.
-Je dois ensuite présenter mon analyse de ces données au comité de direction.
+Data Analyste chez BottleNeck, un marchand de vin prestigieux, j'ai agrégé les données de stock et les assainir afin de pouvoir les exploiter.
+
+J'ai ensuite présenté mon analyse de ces données au comité de direction.
 
 ## Objectifs et compétences
 - **Objectif 1** : Effectuer des analyses univariées et multivariées des données pré-traitées

@@ -5,7 +5,6 @@
 - [Objectifs et compétences](#objectifs-et-compétences)
 - [Technologies utilisées](#technologies-utilisées)
 - [Structure du projet](#structure-du-projet)
-- [Sources de données](#sources-de-données)
 - [Section auteur](#section-auteur)
 
 ## Scénario
